@@ -1,0 +1,1 @@
+add_library(Suffix_Array suffix_array.cpp)

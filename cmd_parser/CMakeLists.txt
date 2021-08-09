@@ -1,0 +1,1 @@
+add_library(CMD_Parser cmd_parser.cpp)
